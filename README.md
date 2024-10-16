@@ -1,2 +1,2 @@
-# RepoEjemplo
+## RepoEjemplo
 ***Primeros pasos en Git***
